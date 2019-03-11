@@ -1,0 +1,21 @@
+
+platformName: Android
+
+#模拟器
+platformVersion: 4.4.2
+deviceName: 127.0.0.1:62001
+
+#真机
+#platformVersion: 8.0.0
+#deviceName: Nexus 6P
+#udid: 84B5T15A10000334
+
+app: C:\Users\Administrator\Downloads\howbuy.android.piggy_68.apk
+appPackage: howbuy.android.piggy
+appActivity: com.howbuy.piggy.aty.AtyMain
+noReset: True
+unicodeKeyboard: True
+resetKeyboard: True
+ip: 127.0.0.1
+port: 4723
+

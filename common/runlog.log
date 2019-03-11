@@ -1,0 +1,16 @@
+2019-03-10 21:11:35,438 desired_caps.py[line:33] INFO start app...
+2019-03-10 21:16:33,002 desired_caps.py[line:33] INFO start app...
+2019-03-10 21:16:39,588 common_fun.py[line:15] INFO ============loginRegisterBtn===============
+2019-03-10 21:16:39,907 common_fun.py[line:22] INFO click loginRegisterBtn
+2019-03-10 21:16:40,883 common_fun.py[line:26] INFO ==========check_loginBtn===========
+2019-03-10 21:16:40,943 common_fun.py[line:30] INFO loginBtn element is not found!
+2019-03-10 21:16:40,944 common_fun.py[line:36] INFO ==========check_change_login_typeBtn===========
+2019-03-10 21:16:41,080 common_fun.py[line:40] INFO change_login_typeBtn element is not found!
+2019-03-10 21:17:07,255 desired_caps.py[line:33] INFO start app...
+2019-03-10 21:17:15,352 common_fun.py[line:15] INFO ============loginRegisterBtn===============
+2019-03-10 21:17:18,656 common_fun.py[line:22] INFO click loginRegisterBtn
+2019-03-10 21:17:19,097 common_fun.py[line:26] INFO ==========check_loginBtn===========
+2019-03-10 21:17:20,141 common_fun.py[line:30] INFO loginBtn element is not found!
+2019-03-10 21:17:20,141 common_fun.py[line:36] INFO ==========check_change_login_typeBtn===========
+2019-03-10 21:17:20,310 common_fun.py[line:40] INFO change_login_typeBtn element is not found!
+2019-03-10 21:17:20,310 common_fun.py[line:53] INFO get startApp screenshot

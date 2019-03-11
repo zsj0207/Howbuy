@@ -1,0 +1,5 @@
+2019-03-10 19:38:35,926 logging_test.py[line:27] INFO start app...
+2019-03-10 19:38:43,977 logging_test.py[line:40] INFO check loginBtn
+2019-03-10 19:38:44,536 logging_test.py[line:44] INFO No loginBut
+2019-03-10 19:38:44,536 logging_test.py[line:31] INFO check loginRegisterBtn
+2019-03-10 19:38:44,750 logging_test.py[line:35] INFO No loginRegisterBtn
