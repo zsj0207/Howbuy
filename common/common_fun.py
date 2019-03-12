@@ -1,19 +1,22 @@
-from baseView.baseView import BaseView
+from ..baseView.baseView import BaseView
 from selenium.common.exceptions import NoSuchElementException
 import logging
 from selenium.webdriver.common.by import By
-from common.desired_caps import appium_desired
+from ..common.desired_caps import appium_desired
 import time,os
 
 class Common(BaseView):
 
+    # 定义登录相关Btn
     loginRegisterBtn = (By.ID,'howbuy.android.piggy:id/tv_login_register')
     loginBtn = (By.ID,'howbuy.android.piggy:id/btnLogin')
-    change_login_typeBtn=(By.ID,'	howbuy.android.piggy:id/tv_pwd_login')
+    change_login_typeBtn=(By.ID,'howbuy.android.piggy:id/tv_pwd_login')
+    check_btn_we_startBtn=(By.ID,'howbuy.android.piggy:id/tv_pwd_loginn')
+
+
 
     def check_loginRegisterBtn(self):
         logging.info("============loginRegisterBtn===============")
-
         try:
             element = self.driver.find_element(*self.loginRegisterBtn)
         except NoSuchElementException:
